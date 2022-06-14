@@ -40,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Selen Bozkurt is a senior research scientist at Stanford. 
+Selen Bozkurt is a Senior Research Scientist at Stanford. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
