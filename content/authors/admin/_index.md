@@ -21,7 +21,7 @@ social:
     link: https://github.com/selenbozkurt
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/selen-bozkurt-19789113/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
