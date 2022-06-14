@@ -27,15 +27,15 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Medical Informatics
+      institution: Akdeniz University / Stanford University
+      year: 2015
+    - course: MSc in Medical Informatics
+      institution: Akdeniz University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Statistics
+      institution: Dokuz Eylul University
+      year: 2005
 email: ""
 superuser: true
 highlight_name: true
