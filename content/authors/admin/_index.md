@@ -1,6 +1,7 @@
 ---
 title: Selen Bozkurt
 role: Professor of Artificial Intelligence
+avatar_filename: photo_sb.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
